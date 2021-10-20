@@ -1,5 +1,5 @@
 {
-  "name": "01-band_names_server",
+  "name": "05-chat-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js",
     "start:dev": "nodemon index.js"
   },
-  "author": "",
+  "author": "eCm",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
